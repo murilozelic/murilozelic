@@ -1,5 +1,5 @@
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilozelic&show_icons=true&theme=dracula&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murilozelic&show_icons=true&line_height=20" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilozelic&layout=compact"  />
 </div>
